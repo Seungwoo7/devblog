@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Game called 'Bridges'"
-date:   2022-09-02 19:45:35 +0900
+date:   2022-09-24 19:45:35 +0900
 categories: Study
 ---
 
