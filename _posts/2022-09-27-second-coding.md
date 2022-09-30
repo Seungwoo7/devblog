@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second coding of the game"
-date:   2022-09-26 19:45:35 +0900
+date:   2022-09-27 19:45:35 +0900
 categories: Study
 ---
 
