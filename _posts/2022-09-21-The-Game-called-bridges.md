@@ -22,3 +22,6 @@ Click on an island and drag left, right, up or down to draw a bridge to the next
 
 ![figure 2](/devblog/assets/picture4.png)
 *Figure 2. After you clear the game*
+
+![figure 3](/devblog/assets/picture6.PNG)
+*Figure 3. simplify*
